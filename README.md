@@ -7,7 +7,7 @@
 # Demo
 
 ```
-[Enjoy](https://vue-todo-list-ftqbw7xvr-makaraman.vercel.app/)
+[Enjoy](https://vue-todo-list-ftqbw7xvr-makaraman.vercel.app)
 ```
 
 ## Project setup
